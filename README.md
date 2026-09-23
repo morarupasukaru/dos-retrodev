@@ -1,6 +1,6 @@
 # DOS
 
-Compilation of resources &amp; docs about a retro-development with PC DOS (2025 - now)
+Compilation of resources &amp; docs about a retro-development with PC DOS 
 
 * OS: [freedos](https://www.freedos.org/), [dosbox](https://www.dosbox.com/)
 * tools: [MS-DOS editor](https://archive.org/details/ms-dos-editor), [Community QBasic](https://qbasic.com/documentation/dosbox.html), [nasm](https://www.nasm.us/), [inertia player](https://demozoo.org/productions/186658/)
