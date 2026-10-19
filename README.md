@@ -11,6 +11,7 @@ Compilation of resources &amp; docs about a retro-development with PC DOS
   * [DOS - Sizecoding](http://www.sizecoding.org/wiki/DOS)
   * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
   * [writing 16-bit Code in NASM](https://www.nasm.us/docs/3.01/nasm10.html)
+  * [Learning Assembly Language](https://www.linkedin.com/learning/learning-assembly-language?trk=learning-course_related-content-card&upsellOrderOrigin=default_guest_learning) linkedin course
 * references
   * [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language)
   * [FreeDos - development resources](https://www.freedos.org/about/devel/)
