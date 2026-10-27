@@ -29,4 +29,4 @@ Compilation of resources &amp; docs about a retro-development with PC DOS
   * [Programmer en Assembleur sur PC](http://www.win3x.org/win3board/viewtopic.php?t=25757)
   * 8088 assembleur, ibm-PC et compatibles, traduit de Henri Lilen, 2709109948, édition Radio
 
-_(last update on 23.09.2026)_
+_(last update on 27.10.2026)_
