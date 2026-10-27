@@ -7,14 +7,12 @@ Compilation of resources &amp; docs about a retro-development with PC DOS
   * [x86-64 playground](https://x64.halb.it/#introduction) 
 * learning
   * [Let's Code - MS DOS](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) youtube videos
-  * [Assembly Language Full Course for Beginners From Scratch](https://www.youtube.com/playlist?list=PLQR3mV3wWgCo47E18bpdsISc5mmpxnlwv) youtube videos
-  * [Learn Assembly for Beginners | x86-64 Tutorials](https://www.youtube.com/playlist?list=PL9o2C-4xGfjHl5PF-Xt-yWH2zc4wjJ3AW)
+  * [Learn Assembly for Beginners | x86-64 Tutorials](https://www.youtube.com/playlist?list=PL9o2C-4xGfjHl5PF-Xt-yWH2zc4wjJ3AW) youtube videos
   * [MASM 8086 Assembly - Pong](https://www.youtube.com/playlist?list=PLvpbDCl_H7mfgmEJPl1bTHlH5g-f0kWDM) youtube videos
+  * [you can learn assembly in 10 minutes](https://www.youtube.com/watch?v=6S5KRJv-7RU) youtube videos
   * [DOS - Sizecoding](http://www.sizecoding.org/wiki/DOS)
   * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
   * [writing 16-bit Code in NASM](https://www.nasm.us/docs/3.01/nasm10.html)
-  * [Learning Assembly Language](https://www.linkedin.com/learning/learning-assembly-language?trk=learning-course_related-content-card&upsellOrderOrigin=default_guest_learning) linkedin course
-  * [](https://www.youtube.com/watch?v=6S5KRJv-7RU)
 * references
   * [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language)
   * [FreeDos - development resources](https://www.freedos.org/about/devel/)
